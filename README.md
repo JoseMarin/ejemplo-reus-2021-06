@@ -1,2 +1,2 @@
 # ejemplo-reus-2021-06
-Description
+Description de proyecto Java inicial
